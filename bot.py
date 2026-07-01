@@ -30,7 +30,8 @@ ADMIN_CHAT_ID = 1904841099
 PRIVATE_GROUP_LINK = "https://t.me/+dE0mrYkSOG0yZTE1"
 
 # Images
-
+DISPLAY_IMAGE_1 = "display1.jpg"
+DISPLAY_IMAGE_2 = "display2.jpg"
 PLAN_IMAGE = "plan.jpg"
 PAYMENT_QR = "payment.jpg"
 
